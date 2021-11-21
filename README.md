@@ -1,2 +1,1 @@
-# my_repository
-Льоха Лох
+#README for lab8
